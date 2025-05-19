@@ -60,3 +60,8 @@
 ├── transision.py
 ├── transision_to_224.py
 └── training.py  # （已废弃）
+
+## 数据集
+
+- 支持数据集：[CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html)
+- [数据集来源]([final_design_datasets](https://www.kaggle.com/datasets/zayxshawn1228/final-design-datasets?select=ciciot2023_normalize))
