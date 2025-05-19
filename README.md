@@ -9,7 +9,7 @@
 
 - ([论文预处理后的数据集](https://www.kaggle.com/datasets/zayxshawn1228/final-design-datasets))
 - 或参考：[CICIDS2017 网络入侵检测数据集](https://www.unb.ca/cic/datasets/ids-2017.html)
-- [CICIoT2023 物联网入侵检测数据集]((https://www.unb.ca/cic/datasets/iotdataset-2023.html))
+- [CICIoT2023 物联网入侵检测数据集](https://www.unb.ca/cic/datasets/iotdataset-2023.html)
 
 
 ## 系统实现流程
