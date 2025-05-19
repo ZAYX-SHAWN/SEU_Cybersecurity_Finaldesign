@@ -4,6 +4,13 @@
 
 本项目基于公开数据集，设计并实现了一个利用卷积神经网络（CNN）进行物联网设备入侵检测的系统。系统通过特征提取与预处理，将网络流量特征转化为适合 CNN 分析的二维图像格式，并基于多种主流预训练 CNN 架构进行模型迁移。同时，通过遗传算法优化模型超参数，并运用集成学习技术提升 IDS 性能。
 
+** 数据集来源**  
+本项目所用数据集已公开，可通过以下方式获得：
+
+- ([final_design_datasets](https://www.kaggle.com/datasets/zayxshawn1228/final-design-datasets))
+- 或参考：[CICIDS2017 网络入侵检测数据集](https://www.unb.ca/cic/datasets/ids-2017.html)
+
+
 ## 系统实现流程
 
 1. **数据预处理与特征工程**
@@ -61,7 +68,3 @@
 ├── transision_to_224.py
 └── training.py  # （已废弃）
 
-## 数据集
-
-- 支持数据集：[CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html)
-- [数据集来源]([final_design_datasets](https://www.kaggle.com/datasets/zayxshawn1228/final-design-datasets?select=ciciot2023_normalize))
